@@ -61,9 +61,3 @@ Ogni aiuto è benvenuto: segnalare un problema, tradurre, scrivere documentazion
 I progetti EurekaFoundation sono distribuiti con licenza
 **[GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)**, salvo diversa indicazione nel
 singolo repository: puoi usarli, studiarli, modificarli e ridistribuirli liberamente.
-
-<div align="center">
-
-*Fatto con ❤️ nel Sud Italia.*
-
-</div>
